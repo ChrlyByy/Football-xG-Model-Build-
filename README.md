@@ -1,6 +1,6 @@
 # Football Expected Goals (xG) Predictor
 
-A logistic regression model built in Python to quantify the quality of football scoring chances. This project demonstrates the full data science pipeline—from data acquisition and cleaning to feature engineering, model training, and evaluation—to predict the probability that a shot results in a goal.
+A logistic regression model built in Python to quantify the quality of football scoring chances. This project demonstrates the full data science pipeline, from data acquisition and cleaning to feature engineering, model training, and evaluation, to predict the probability that a shot results in a goal.
 
 ## Model Performance
 
